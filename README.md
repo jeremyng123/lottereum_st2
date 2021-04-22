@@ -56,3 +56,5 @@ Using Metamask, we can see the results of the punting using 2 different accounts
 
 13. After that, use Account 1 (the house) to get payout. The immediate effect is the decrease in the minimum bet amount:  
     ![drop_in_minimum_bet](./pics/minimum_deposit_dropped.png)
+
+14. We can then see that Account 3 is the winner because it now has more eth in his wallet:

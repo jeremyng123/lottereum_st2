@@ -38,9 +38,9 @@ npm install truffle -g
    ![Confirm tx](./pics/confirm_start_game.png)  
    After which, we can see this notification when a successful TX was made:  
    ![tx_notification](./pics/confirmed_tx.png)
-9. We can now see the updated page to reflect the lottery that is being hosted:
+9. We can now see the updated page to reflect the lottery that is being hosted:  
    ![updated_page](./pics/updated_page.png)
-10. Use another account to make bets to that lottery. An example of what values to fill in each fields can be seen:
+10. Use another account to make bets to that lottery. An example of what values to fill in each fields can be seen:  
     ![buy_ticket](./pics/buy_ticket.png)  
     After the punter is happy with the values, he/she may click on Buy Ticket button to purchase a bet ticket. Of course, once the transaction is successful, a notification will appear. Do this for one more account (so we have more than 1 punters). Then, we wait for 5 minutes for the house to resolve game and retrieve payout.
 

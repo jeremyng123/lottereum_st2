@@ -47,12 +47,11 @@ npm install truffle -g
 Using Metamask, we can see the results of the punting using 2 different accounts:  
  ![punting_accounts](./pics/accounts_after_punting.png)
 
-11. Using accounts 2 and 3, click on resolve game button after filling in the game ID field box. This can be seen in this image:  
-     ![resolve game](./pics/resolve_game.png)  
-    After resolving the games from the 2 accounts, we note that the deposit has been returned to them (compare the prices from this image and the previous one):  
-    ![returned deposit](./pics/returned_deposit.png)
+11. Afterwards, use Account 2 to click on Resolve Game. Make sure that the Secret Bytes value is the same as the input when buying ticket. Do the same for account 3:  
+    ![resolve game](./pics/resolve_game.png)
 
-12. Afterwards, use Account 2 to click on Get Payout, making sure that the Secret Bytes value is the same as the input when buying ticket. Do the same for account 3.
+12. After resolving the games from the 2 accounts, we note that the deposit has been returned to them (compare the prices from this image and the previous one):  
+    ![returned deposit](./pics/returned_deposit.png)
 
 13. After that, use Account 1 (the house) to get payout. The immediate effect is the decrease in the minimum bet amount:  
     ![drop_in_minimum_bet](./pics/minimum_deposit_dropped.png)
